@@ -1,2 +1,59 @@
-# 47a90b5a-landscaping-lawn-care-invoic
-Tired of chasing down payments after a long day of mowing and trimming? The 'Landscaping &amp; Lawn Care Invoice and Payment WordPress Plugin' turns your site into a billing machine, so you can get paid instantly without lifting a finger.  This plugin eliminates the hassle of paper invoices and late payments by letting you create, send, and collect pay
+=== Landscaping & Lawn Care Invoice and Payment WordPress Plugin ===
+Contributors: digitalforge
+Requires at least: 5.8
+Tested up to: 6.5
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Generate invoices, accept payments, track revenue, and automate receipts for Landscaping & Lawn Care. All-in-one financial management for Landscaping & Lawn Care sites.
+
+== Description ==
+
+Generate invoices, accept payments, track revenue, and automate receipts for Landscaping & Lawn Care. All-in-one financial management for Landscaping & Lawn Care sites.
+
+**Features:**
+
+* Core functionality
+
+== Installation ==
+
+1. Upload the plugin folder to `/wp-content/plugins/`
+2. Activate via WordPress admin > Plugins
+3. Configure via Settings > Landscaping & Lawn Care Invoice and Payment WordPress Plugin
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial release.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVq00j4ePgaU2hi1ZicZm2w)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVq00j4ePgaU2hi1ZicZm2w)
+
